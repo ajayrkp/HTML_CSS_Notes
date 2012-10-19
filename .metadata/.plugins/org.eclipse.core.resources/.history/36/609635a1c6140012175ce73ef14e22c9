@@ -1,0 +1,17 @@
+<!--
+	 Day 5 Exercise 3
+** At store is having a sale. They are giving
+** 10% off purchases of $10 or lower and 20% off
+** purchases of greater than $10.
+** Write a short program that displays the discount (10%
+** or 20% ) and final price.
+
+** - Use a variable for the items's cost, run as many
+** cases necessary to test the program.
+**
+-->
+
+<?php
+
+
+?>
